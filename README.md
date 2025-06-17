@@ -1,1 +1,1 @@
-# postiz-auth-legal-info
+# postiz-legal-info
